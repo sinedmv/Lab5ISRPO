@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests[1]_tests.cmake")
+  include("C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

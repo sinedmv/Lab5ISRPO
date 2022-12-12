@@ -1,0 +1,1 @@
+add_library(calc calc2args.cpp)

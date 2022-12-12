@@ -1,0 +1,14 @@
+CalcTestSuite.PlusInt 1 0.889673
+CalcTestSuite.Minus 1 0.635157
+CalcTestSuite.ValidPlusInt 3 0.0105713
+CalcTestSuite.ValidMinusInt 3 0.00599277
+CalcTestSuite.ValidMultInt 3 0.0081894
+CalcTestSuite.ValidDivFloat 1 0.127297
+CalcTestSuite.ValidPlus 7 0.00234827
+CalcTestSuite.ValidMinus 10 0.00140316
+CalcTestSuite.ValidMult 11 0.00155405
+CalcTestSuite.ValidDiv 9 0.00769547
+CalcTestSuite.WrongOperator 3 0.050715
+CalcTestSuite.WrongValues 2 0.13197
+CalcTestSuite.MergedWriting 2 0.0955098
+---

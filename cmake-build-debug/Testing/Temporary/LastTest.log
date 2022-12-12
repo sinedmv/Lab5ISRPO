@@ -1,0 +1,214 @@
+Start testing: Dec 12 11:54 RTZ 2 (ceia)
+----------------------------------------------------------
+1/7 Testing: CalcTestSuite.ValidPlus
+1/7 Test: CalcTestSuite.ValidPlus
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.ValidPlus" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.ValidPlus" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.ValidPlus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.ValidPlus
+[       OK ] CalcTestSuite.ValidPlus (2 ms)
+[----------] 1 test from CalcTestSuite (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.ValidPlus" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.ValidPlus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: CalcTestSuite.ValidMinus
+2/7 Test: CalcTestSuite.ValidMinus
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.ValidMinus" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.ValidMinus" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.ValidMinus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.ValidMinus
+[       OK ] CalcTestSuite.ValidMinus (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.ValidMinus" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.ValidMinus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: CalcTestSuite.ValidMult
+3/7 Test: CalcTestSuite.ValidMult
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.ValidMult" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.ValidMult" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.ValidMult
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.ValidMult
+[       OK ] CalcTestSuite.ValidMult (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.ValidMult" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.ValidMult" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: CalcTestSuite.ValidDiv
+4/7 Test: CalcTestSuite.ValidDiv
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.ValidDiv" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.ValidDiv" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.ValidDiv
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.ValidDiv
+[       OK ] CalcTestSuite.ValidDiv (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.ValidDiv" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.ValidDiv" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: CalcTestSuite.WrongOperator
+5/7 Test: CalcTestSuite.WrongOperator
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.WrongOperator" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.WrongOperator" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.WrongOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.WrongOperator
+Use this operations: + - * /
+Use this operations: + - * /
+Use this operations: + - * /
+Use this operations: + - * /
+Use this operations: + - * /
+[       OK ] CalcTestSuite.WrongOperator (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.WrongOperator" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.WrongOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: CalcTestSuite.WrongValues
+6/7 Test: CalcTestSuite.WrongValues
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.WrongValues" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.WrongValues" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.WrongValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.WrongValues
+Enter only Integer or Float values
+Enter only Integer or Float values
+Please, enter your expression like this:
+val1 *operation* val2
+Please, enter your expression like this:
+val1 *operation* val2
+Enter only Integer or Float values
+[       OK ] CalcTestSuite.WrongValues (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.WrongValues" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.WrongValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: CalcTestSuite.MergedWriting
+7/7 Test: CalcTestSuite.MergedWriting
+Command: "C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests/tests.exe" "--gtest_filter=CalcTestSuite.MergedWriting" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/tests
+"CalcTestSuite.MergedWriting" start time: Dec 12 11:54 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/raybe/CLionProjects/Lab5ISRPO/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CalcTestSuite.MergedWriting
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CalcTestSuite
+[ RUN      ] CalcTestSuite.MergedWriting
+Please, enter your expression like this:
+val1 *operation* val2
+Please, enter your expression like this:
+val1 *operation* val2
+Please, enter your expression like this:
+val1 *operation* val2
+Please, enter your expression like this:
+val1 *operation* val2
+Please, enter your expression like this:
+val1 *operation* val2
+[       OK ] CalcTestSuite.MergedWriting (0 ms)
+[----------] 1 test from CalcTestSuite (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"CalcTestSuite.MergedWriting" end time: Dec 12 11:54 RTZ 2 (ceia)
+"CalcTestSuite.MergedWriting" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 12 11:54 RTZ 2 (ceia)
