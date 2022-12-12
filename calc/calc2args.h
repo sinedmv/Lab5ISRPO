@@ -10,8 +10,6 @@
 ///Класс, содержащий данные про две операнды и операторе между ними
 class CalcTwoArgs {
 public:
-    bool valid = false;
-
     /**
      * @brief Показывает, верно ли были введены данные
      * @return Возвращает true, если данные были введены верно. False в противном случае
@@ -19,10 +17,12 @@ public:
     bool isValid() const {
         return valid;
     }
-
     friend CalcTwoArgs ArgParser(const std::string& str);
     friend bool CheckForOperation(CalcTwoArgs& temp, const std::string& str);
-
+    /**
+     * @brief Выводит результат арифм. операции между двумя операндами
+     * @return Возвращает результат
+     */
     double Calc() const {
         if (firstArg == std::nullopt || secondArg == std::nullopt) {
             std::cerr << "Arguments weren't entered or wrong enter" << std::endl;
@@ -44,6 +44,7 @@ public:
         std::exit(1);
     }
 private:
+    bool valid = false;
     std::optional<double> firstArg;
     std::optional<double> secondArg;
     bool isPlus = false;
